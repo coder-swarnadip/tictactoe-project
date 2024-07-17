@@ -85,6 +85,12 @@ body{
     font-family: 'Gill Sans';
     font-size: 4vmin;
   }
+@media (max-width :731px){
+    .msg-container{
+        margin-bottom:70vmin ;
+    }
+}
+
 
 .x{
    
